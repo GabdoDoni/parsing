@@ -1,3 +1,4 @@
 bin
 lib
 pyvenv.cfg
+chromedriver_mac_arm64
