@@ -33,6 +33,7 @@ def get_data(url):
 hotels_list = []
 
 
+
 def get_data_with_selenium(url):
     options = Options()
     # options.preferences = {'general.useragent.override': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
